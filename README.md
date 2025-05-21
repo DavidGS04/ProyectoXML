@@ -11,7 +11,7 @@ Este proyecto es un cuestionario interactivo bilingüe (Español / Inglés) que 
 
 ## Ver en línea
 
-[https://tuusuario.github.io/ProyectoXML](https://tuusuario.github.io/ProyectoXML)
+[https://tuusuario.github.io/ProyectoXML](https://davidgs04.github.io/ProyectoXML/)
 
 ## Autor
 
